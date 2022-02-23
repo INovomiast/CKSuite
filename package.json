@@ -1,0 +1,23 @@
+{
+  "name": "CKSuite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/INovomiast/CKSuite.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/INovomiast/CKSuite/issues"
+  },
+  "homepage": "https://github.com/INovomiast/CKSuite#readme",
+  "devDependencies": {
+    "electron": "^17.0.1"
+  }
+}
